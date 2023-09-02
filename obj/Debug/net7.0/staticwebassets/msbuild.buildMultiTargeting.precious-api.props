@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/precious-api.props" />
+</Project>
